@@ -1,0 +1,29 @@
+{
+  "name": "trade-surveillance-engine",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000T\u0000r\u0000a\u0000d\u0000e\u0000 \u0000S\u0000u\u0000r\u0000v\u0000e\u0000i\u0000l\u0000l\u0000a\u0000n\u0000c\u0000e\u0000 \u0000E\u0000n\u0000g\u0000i\u0000n\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aniket-runtime/trade-surveillance-engine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Aniket-runtime/trade-surveillance-engine/issues"
+  },
+  "homepage": "https://github.com/Aniket-runtime/trade-surveillance-engine#readme",
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "mongoose": "^9.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
